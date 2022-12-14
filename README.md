@@ -1,5 +1,5 @@
 # Node Generator
-    #### undefined[tonymai6](github.com/tonymai6) [Email Me](tonay6@gmail.com)
+    ##### undefined[tonymai6](github.com/tonymai6) [Email Me](tonay6@gmail.com)
     
     ## Table of Contents
     * [Repository Description](#Repository-Description)
@@ -9,7 +9,7 @@
     * [Repositiory End-Goal Criterea](#Criterea)
     * [Future Project](#Future-Project)
     
-    # Repository Description
+    ## Repository Description
 
     This repository contains an application that helps makes a ReadMe doc for developers
     
