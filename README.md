@@ -1,11 +1,12 @@
 # Node Generator
-    ##### undefined[tonymai6](github.com/tonymai6) [Email Me](tonay6@gmail.com)
+    ##### Contact Me 
+    [tonymai6](github.com/tonymai6) [Email Me](tonay6@gmail.com)
     
     ## Table of Contents
     * [Repository Description](#Repository-Description)
     * [Installation Instructions](#Install)
     * [Usage Information](#Usage)
-    *[References](#Ref)
+    * [References](#Ref)
     * [Repositiory End-Goal Criterea](#Criterea)
     * [Future Project](#Future-Project)
     
@@ -14,12 +15,12 @@
     This repository contains an application that helps makes a ReadMe doc for developers
     
     ## User Story
-    * As a developer, I want to understand node and how to use other methods/tools to become a finer developer
+        ### As a developer, I want to understand node and how to use other methods/tools to become a finer developer
 
     ## Acceptance Criteria
 
-    1. WHEN I am prompted for information about my application repository
-    2. THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+        1. WHEN I am prompted for information about my application repository
+        2. THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
     3. WHEN I enter my project title
     4. THEN this is displayed as the title of the README
     5. WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
@@ -33,7 +34,7 @@
     13. WHEN I click on the links in the Table of Contents
     14. THEN I am taken to the corresponding section of the README
     
-    ### Contribution Guidelines
+    ## Contribution Guidelines
 
     
     
@@ -58,7 +59,6 @@
 
     1.  www.npmjs.com
     
-    2.  
     
     ## Repositiory End-Goal Criterea
 
